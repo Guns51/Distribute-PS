@@ -1,2 +1,2 @@
-# DISTRIBUTE-PS
+# Distribute-PS
 
